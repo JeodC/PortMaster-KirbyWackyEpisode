@@ -1,0 +1,32 @@
+{
+  "version": 3,
+  "name": "kirbywackyepisode.zip",
+  "items": [
+    "Kirby Wacky Episode.sh",
+    "kirbywackyepisode"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Kirby Wacky Episode",
+    "porter": [
+      "Jeod"
+    ],
+    "desc": "A bite-sized fan made adventure is coming your way! Explore those worlds, pull off some new insanely stylish moves and dash through levels at an exhilarating pace! Equip yourself with 2 copy abilities at once and duel with some of Kirby's past foes yet again!",
+    "desc_md": null,
+    "inst": "Ready to run!",
+    "inst_md": null,
+    "genres": [
+      "action",
+      "adventure",
+      "platformer"
+    ],
+    "image": null,
+    "rtr": true,
+    "exp": false,
+    "runtime": null,
+    "reqs": [],
+    "arch": [
+      "aarch64"
+    ]
+  }
+}
