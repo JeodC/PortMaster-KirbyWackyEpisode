@@ -1,0 +1,51 @@
+Kirby & The Eternal Paradise: Wacky Episode - Credits
+------------
+SouprSpookr2020 - Concept artist, Artwork artist
+scarfy_art - Concept artist, Artwork artist
+DeMeister64 - Concept artist, Artwork artist
+SideLineGames - Sprite artist
+Chezi - collaborator (Charter)
+Noatpad - collaborator (Zoru)
+Avathestarwarrior - Ability Contest Winner (Chess)
+AlexAugerDev - Director, Designer, Programmer
+
+Featuring Sprites by: Nintendo, HAL Laboratory & Flagship
+
+Featuring Music by: Hirokazu Ando, Jun Ishikawa, Tadashi Ikegami, Hironobu Inagaki, Atsuyoshi Isemura 
+& Shogo Sakai
+
+Special Thanks:
+Nintendo
+HAL Laboratory
+Flagship
+Kirby & The Amazing Mirror
+Kirby: Nightmare in Dreamland
+Kirby Squeak Squad
+Kirby's Dream Land 2
+Kirby's Dream Land 3
+Kirby 64: The Crystal Shards
+Kirby Super Star Ultra
+Kirby Mass Attack
+The Legend of Zelda: Ocarina of Time
+The Legend of Zelda: The Minish Cap
+Metroid Fusion
+Yoshi's Island DS
+
+Juju Adams, Alynne Keith - Input
+Team Gamble - Kirby Gamble Galaxy Stories
+Nezzy - The Kirby RPG
+The Spriters Resource
+The Sounds Resource
+NekoPresence
+
+...And you!
+
+----------
+
+Game by: Alex Auger
+
+Made with GameMaker Studio 2, by Yoyogames
+
+Kirby is a property of Nintendo & HAL Laboratory
+
+2022-2023, all rights reserved to their respective owners.

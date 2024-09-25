@@ -1,0 +1,103 @@
+Kirby & The Eternal Paradise: Wacky Episode - Controls & Ability Movesets
+--------------------------------------------
+The chart below refers to the intial control scheme and does not take control remapping into account
+
+-The following keys match the corresponding XBOX Controller buttons:
+Z -> B
+X -> A 
+C -> LT
+Space -> RT
+Enter -> Start
+Shift -> Select
+Alt -> L3
+
+The following pictograms match the corresponding buttons (See the in-game Options menu for reference):
+Jump -> B
+Attack -> A
+Guard -> RT
+Swap Ability -> LT
+Drop Ability -> Select
+Dash -> L3
+Pause -> Start
+
+
+-Shortcuts:
+F or 4: Fullscreen Toggle
+1: Show/Hide HUD
+6 (on Title Screen): Delete Save File
+7 (on Title Screen & Options Menu): Reset Controls
+8 (on Title Screen): Go to Options Menu
+0: Reset Game
+Esc: Close Game
+
+-Kirby (Normal)
+--------------
+B: Jump
+Double tap Direction/: Dash
+Hold or Tap B (in air): Float
+A (while Float): Air Puff
+Hold RT: Guard
+LT (with ability): Swap Ability 
+Down (on ground): Crouch
+B (while Crouch): Slide / Push Blocks
+B (while Slide): Dash Roll
+Down + B (in air): Air Roll
+Hit Wall (Air Roll): Wall Slide
+RT (in air): Air Dive
+B + A (in air): Instant Air Puff
+Up: Go through doors / Open Chests
+Select: Drop Ability
+
+Start: Open Menu
+
+-Copy
+-----
+Hold A: Inhale / Pull Blocks
+A (while inhaled): Star Bullet
+Dash + A (while inhaled): Superstar Bullet
+Down (while inhaled): Swallow
+Down (while glowing): Copy Ability
+
+-Sword
+-----
+A + A + A: Multisword Attack
+A (in air): Sword Spin
+Dash + A (on ground): Lunge Thrust
+Up + A (on ground): Rising Slash
+Down + A (in air): Stilt Stab
+RT (when hit): Blade Counter
+
+-Fire
+-----
+Hold A: Fire Breath
+Up or Down (while Fire Breath): Aim Breath
+Hold Opposite Direction (while Fire Breath): Heat Charge
+Release Heat Charge (full charge): Flamethrower
+Dash + A: Burning Comet
+Charge RT & Hold Down: Inferno
+
+-Cutter
+-----
+A: Cutter Boomerang
+Hold & Release B: Hyper Boomerang
+Down + A (in air): Cleave Drop
+Up + A (in air): Propeller Cutter
+Dash + A: Cutter Dance
+
+-Hammer
+-----
+A: Hammer Nail
+A (in air): Aerial Swing
+Hit ground (while Aerial Swing): Wild Aerial Swing
+Dash + A: Hammer Twirl
+Down + A: Hammer Flip
+Up + A: Hammer Throw
+
+-Icy Sword
+-----
+A + A + A: Multifreeze Slash
+A (in air): Cold Chop
+Dash + A (on ground): Slippery Slice
+Up + A (on ground): Frosty Rise
+Down + A (in air): Downward Stab
+RT (when hit): Blizzard Counter

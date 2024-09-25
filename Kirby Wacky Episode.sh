@@ -14,6 +14,7 @@ fi
 
 source $controlfolder/control.txt
 source $controlfolder/device_info.txt
+export PORT_32BIT="Y"
 [ -f "${controlfolder}/mod_${CFW_NAME}.txt" ] && source "${controlfolder}/mod_${CFW_NAME}.txt"
 get_controls
 
@@ -28,15 +29,18 @@ GAMEDIR="/$directory/ports/kirbywackyepisode"
 cd $GAMEDIR
 > "$GAMEDIR/log.txt" && exec > >(tee "$GAMEDIR/log.txt") 2>&1
 
-$ESUDO chmod 777 "$GAMEDIR/gmloadernext"
+$ESUDO chmod 777 "$GAMEDIR/gmloader"
 
 # Exports
-export LD_LIBRARY_PATH="$GAMEDIR/libs:$LD_LIBRARY_PATH"
+export LD_LIBRARY_PATH="/usr/lib32:$GAMEDIR/libs:$LD_LIBRARY_PATH"
+export SDL_GAMECONTROLLERCONFIG="$sdl_controllerconfig"
+export GMLOADER_DEPTH_DISABLE=1
+export GMLOADER_SAVEDIR="$GAMEDIR/gamedata/"
+export GMLOADER_PLATFORM="os_windows"
 
 # Assign gptokeyb and load the game
-$GPTOKEYB "gmloadernext" -c "control.gptk" &
-export SDL_GAMECONTROLLERCONFIG="$sdl_controllerconfig"
-./gmloadernext game.apk
+$GPTOKEYB "gmloader" xbox360
+./gmloader game.apk
 
 # Kill processes
 $ESUDO kill -9 $(pidof gptokeyb)
